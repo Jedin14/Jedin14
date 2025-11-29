@@ -1,102 +1,125 @@
-<!-- Header -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="80">
-  <br>Hi, I'm <b>Jedin J Mathew</b>
-  <br>Robotics Engineer • 3D Modeller • Embedded Engineer
-</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350">
+  <a href="#readme">
+    <img src="image_0.png" alt="Precision Robotics and Computation Banner" width="100%" style="border-radius: 8px; box-shadow: 0px 10px 30px -10px rgba(0,0,0,0.5);">
+  </a>
 </p>
 
----
-
-## 🤖 About Me
-
-💡 Passionate robotics engineer specializing in:  
-- 🦾 **Robotic Manipulators & Arms**  
-- 🤝 **End-Effectors & Custom Mechanisms**  
-- 🧠 **Python Automation, Control & Perception**  
-- 🔌 **ESP32/ESP8266 Embedded Coding**  
-- 🧱 **3D Modeling (SolidWorks)**  
-- 🖨️ **3D Printing & Rapid Prototyping**  
-
-⚙️ I love building real robots, designing precision hardware, and writing intelligent control systems.  
-📫 Reach me at **jedinmathew@gmail.com**  
-🔗 Connect on LinkedIn: **https://www.linkedin.com/in/jedinmathew/**
-
----
-
-## 🔧 Tech Stack & Tools
-
+<h1 align="center">Jedin J Mathew</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,linux,git,github,vscode,docker" />
+  <b>Robotics Engineer • ROS Developer • Embedded Systems</b>
 </p>
 
+<br>
+
+<h2 align="center">✨ Overview</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,figma,ai,pr,ps" />
+Focused on building high-precision, intelligent robotic systems through clean engineering, minimal design philosophy, and mathematically grounded control. Combining ROS, embedded systems, and mechanical design to develop modern robotic manipulators and automation stacks.
 </p>
 
----
+<br>
 
-## 🦾 Robotics Skillset
+<h2 align="center">⚙️ Core Competencies</h2>
 
-- **Forward / Inverse Kinematics**  
-- **Manipulator Trajectory Planning (RRT, Splines,ROS Rviz)**
-- **Robot Simulation Simulations (Gazebo,Issac Sim)**  
-- **Sensor Fusion (IMU, Encoders, ToF)**  
-- **Embedded Systems – ESP32/ESP8266 Coding**  
-- **Motor Drivers – PWM, PID Loops, Controllers**  
-- **Mechanical CAD Design (Solidworks/AutoCAD)**  
-- **3D Printing for Custom Parts & Prototypes**  
-- **Vision + Python Control Systems**  
-
----
-
-## 🚀 Featured Robotics Projects
-
-| Project | Description | Visual |
-|--------|-------------|--------|
-| **🤖 6-DOF Robotic Arm** | Designed + programmed a full robotic arm using Python control, IK, and ESP32 firmware | <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="120"> |
-| **🖨️ 3D Printed End-Effector** | Modular robotic gripper for pick & place automation | <img src="https://media3.giphy.com/media/j5hOk4g8q0q36/giphy.gif" width="120"> |
-| **🧠 CV + Control Pipeline** | Python + OpenCV pipeline for tracking & robot control | <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="120"> |
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jedin14&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jedin14&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedin14&layout=compact&theme=tokyonight&hide_border=true" width="45%">
-</p>
-
----
-
-## 🎥 Robotics Aesthetic Zone ✨
+<table align="center" style="border-collapse: collapse; border: none;">
+<tr>
+<td valign="top" width="33%" style="border: none;">
+<h3 align="center">Robotics & Manipulation</h3>
+<ul>
+<li>Forward/Inverse Kinematics</li>
+<li>Jacobians + numerical IK solvers</li>
+<li>Trajectory planning (Splines, RRT)</li>
+<li>MoveIt planning pipelines</li>
+<li>URDF/Xacro kinematic modeling</li>
+</ul>
+</td>
+<td valign="top" width="33%" style="border: none;">
+<h3 align="center">ROS Ecosystem</h3>
+<ul>
+<li>ROS2 Humble</li>
+<li>TF2, Actions, Lifecycle nodes</li>
+<li>MoveIt servo & IK plugins</li>
+<li>Gazebo / Isaac simulation</li>
+<li>micro-ROS for embedded nodes</li>
+</ul>
+</td>
+<td valign="top" width="33%" style="border: none;">
+<h3 align="center">Embedded & Control</h3>
+<ul>
+<li>ESP32 / ESP-IDF firmware</li>
+<li>Feetech SMS/ST bus-servo control</li>
+<li>Sensor fusion (IMU, ToF, Encoders)</li>
+<li>Real-time control loops (PID, FF)</li>
+</ul>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR3z8jK5wLqg7JC/giphy.gif" width="300">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut4lAI/giphy.gif" width="300">
+<b>Design & Fabrication:</b> SolidWorks multi-body modeling • End-effector mechanism design • High-tolerance prototyping
 </p>
 
----
+<br>
 
-## 🌐 Connect With Me
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="image_1.png" alt="Tech Stack Icons" width="100%" style="border-radius: 8px;">
+</p>
+
+<br>
+
+<h2 align="center">📦 Featured Projects</h2>
+
+### 6-DOF Bus-Servo Manipulator (ROS2 + IK Solver)
+* Custom-modeled URDF/Xacro with MoveIt integration.
+* Numerical IK solver implemented in Python.
+* ESP32 bus-servo bridge with real-time feedback loops.
+
+### Modular 3D-Printed End-Effectors
+* Tool-free quick-swap mechanisms.
+* Parallel and adaptive grip designs using high-strength PETG.
+
+### Vision-Driven Control Pipeline
+* Real-time object tracking and segmentation using OpenCV.
+* Mapping vision data directly to actuator velocity commands.
+
+<br>
+<h3 align="center">📸 Project Gallery</h3>
+<p align="center">
+  <img src="image_5.png" alt="Jedin's Robotics Projects Showcase" width="100%" style="border-radius: 8px; box-shadow: 0px 10px 30px -10px rgba(0,0,0,0.5);">
+</p>
+<br>
+
+<h2 align="center">📊 GitHub Insights</h2>
+<p align="center">
+  <img src="image_2.png" alt="Jedin's GitHub Stats and Streak" width="100%" style="border-radius: 8px;">
+</p>
+
+<br>
+
+<h2 align="center">🧩 Specializations</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Robotics-0a0a0a?style=for-the-badge&logo=ros&logoColor=white">
+<img src="https://img.shields.io/badge/Manipulators-141414?style=for-the-badge">
+<img src="https://img.shields.io/badge/Embedded%20Systems-0a0a0a?style=for-the-badge&logo=espressif&logoColor=white">
+<img src="https://img.shields.io/badge/Motion%20Planning-141414?style=for-the-badge">
+<img src="https://img.shields.io/badge/3D%20Design-0a0a0a?style=for-the-badge&logo=solidworks&logoColor=white">
+</p>
+
+<br>
+
+<h2 align="center">🤝 Connect</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jedinmathew/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jedinmathew@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Jedin14"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<br>
+<br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jedinmathew/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:jedinmathew@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Jedin14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="image_4.png" width="250" alt="Minimalist Robotic Arm Render">
 </p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
+<p align="center" style="color: #888888; font-size: 14px; letter-spacing: 1px;">
+  Designing intelligent machines with clarity, precision, and minimalism.
 </p>
-
-<h3 align="center">✨ Thanks for visiting! Building robots one line of code at a time. ✨</h3>
